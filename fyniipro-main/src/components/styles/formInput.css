@@ -1,0 +1,56 @@
+.formInput {
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+}
+
+input {
+  border-radius: 5px;
+  border: 1px solid transparent;
+  background-color: #f1f1f1;
+  padding: 10px;
+  font-size: 16px;
+}
+
+input[type="text"] {
+  background-color: #f1f1f1;
+  width: 100%;
+}
+
+input[type="submit"] {
+  background-color: DodgerBlue;
+  color: #fff;
+}
+
+.select {
+  margin: 10px 0px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.formlabel {
+  font-size: 12px;
+  color: gray;
+}
+
+.droplabel {
+  font-size: 12px;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  color: gray;
+}
+
+span {
+  font-size: 12px;
+  padding: 3px;
+  color: red;
+  display: none;
+}
+
+input:invalid[focused="true"] {
+  border: 1px solid red;
+}
+
+input:invalid[focused="true"] ~ span {
+  display: block;
+}

@@ -1,0 +1,23 @@
+.droplabel {
+  font-size: 16px;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  color: green;
+}
+@media screen and (max-width: 500px) {
+  .formm {
+    height: 90%;
+    width: 70%;
+  }
+  .formlabel {
+    font-size: 15px;
+  }
+  input,
+  input[type="text"] {
+    width: 70% !important;
+    height: 35px;
+  }
+  input::placeholder {
+    font-size: 10px;
+  }
+}

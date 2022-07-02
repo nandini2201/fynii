@@ -1,0 +1,195 @@
+.body12 {
+    /* background:  top center no-repeat #fff; */
+    /* background-color: #96dbe2; */
+    border: 0 none;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: top;
+  }
+
+.main21 {
+  margin: 0 auto;
+  width: 900px;
+  position: relative;
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+}
+
+.wrapper12 {
+  width: 100%;
+  height: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  overflow: hidden;
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+}
+
+.col1q {
+  float: left;
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+  display: block;
+}
+
+.pad_left2q {
+  padding-left: 20px;
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+  display: block;
+}
+
+.text1q {
+  font-size: 30px;
+  font-weight: 300;
+  color: #000;
+  line-height: 39px;
+  padding: 24px 0 15px 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.buttonw {
+  background-color: yellow;
+  font-size: 18px;
+  color: #000;
+  font-weight: 900;
+  padding: 5%;
+  /* margin: 2%; */
+  border-radius: 4%;
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+}
+
+.body3q {
+  /* background: url("../images/line_hor1.jpg") bottom repeat-x #fff; */
+  border-top: 1px solid #000;
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+  margin-left: 5%;
+}
+
+#content_top {
+  width: 100%;
+  overflow: hidden;
+  padding-bottom: 20px;
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+  display: block;
+}
+
+.bighq{
+  font-size: 28px;
+  font-weight: bold;
+  font-weight: 300;
+  color: #4e4e4e;
+  line-height: 38px;
+  font-weight: 900;
+  color: #000;
+  font-size: 3rem;
+  margin-top: 5%;
+  padding: 2% 0% 0% 0%;
+  border: 0 none;
+  
+}
+
+.pad_bot1q {
+  padding-bottom: 20px;
+}
+
+.img-coursePage1 {
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+  vertical-align: middle;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222);
+  
+}
+
+.text1q{
+  font-size: 40px;
+  font-weight: 900;
+  color: #000;
+}
+
+.nav1q{
+  display: block;
+  padding: 0%;
+  margin: 0%;
+  width: 100%;
+  height: 70px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #000;
+  top: 0%;
+}
+
+.pwq{
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+  padding-bottom: 20px;
+}
+
+.liq {
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+}
